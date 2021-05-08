@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the TextInput component 1`] = `
+<TextInput
+  allowFontScaling={true}
+  autoCorrect={false}
+  rejectResponderTermination={true}
+  underlineColorAndroid="transparent"
+  value="apple"
+/>
+`;
